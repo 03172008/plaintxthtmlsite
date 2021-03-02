@@ -1,3 +1,0 @@
-Hi, this is a website.
-This might look plain, but that is because this is actually just a text file.
-Take a look around, there isn't much here.
